@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    sabrina:
+      name: sabrina
+      password:  $2b$12$WAXHHJB2bBE4M257xlbfBeJpJ/kT5kuXxfJ8le162.0xNHLdi5owy # To be replaced with hashed password
+    guest:
+      name: Gast
+      password:  $2b$12$doHlugwrs.bA2.uD/2lQNuFJ8dZYyG2caZ3viyBMWi2u5xPvejw02 # To be replaced with hashed password
+cookie:
+  expiry_days: 30  # number of days until password is asked again
+  key: JgDyEoKUNItM5prxo194jDeLYzVzmYE6 # Must be string, use https://randomkeygen.com/
+  name: streamlitcookie

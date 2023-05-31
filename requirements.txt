@@ -1,0 +1,5 @@
+json
+pandas
+matplotlib
+pillow
+streamlit_authenticator
